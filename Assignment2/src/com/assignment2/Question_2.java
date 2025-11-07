@@ -1,19 +1,11 @@
-/**
- * 
- */
+
 package com.assignment2;
 
 import com.assignment2.model.Dog;
 import com.assignment2.model.Student;
 
-/**
- * 
- */
 public class Question_2 {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		

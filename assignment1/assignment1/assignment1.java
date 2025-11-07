@@ -8,8 +8,6 @@ public class assignment1 {
 		int a=30;
 		//, double, char, boolean, String
 		double b=20;
-		boolean c= true;
-		char d ='t';
 		
 		String str1 = "tute";
 		String str2 = "dude";
